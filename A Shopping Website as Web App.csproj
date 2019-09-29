@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>A_Shopping_Website_as_Web_App</RootNamespace>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+  </ItemGroup>
+
+</Project>
